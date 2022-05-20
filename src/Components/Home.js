@@ -56,7 +56,7 @@ export default function Example() {
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 sm:static">
             <div className="sm:max-w-lg">
               <h1 className="text-4xl font font-extrabold tracking-tight text-gray-900 sm:text-6xl">
-                hello thing is hard but book not. !
+                Searching thing is hard but book not. !
               </h1>
               <p className="mt-4 text-xl text-gray-500">
                This is the platform of finding books provide u the connection and community to develop fast.
